@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\denys\Desktop\IK-11\Denys Tsybko\AP\PR4\lab04.6\lab04.6\Source.cpp(22): error C4700: uninitialized local variable 'n' used
